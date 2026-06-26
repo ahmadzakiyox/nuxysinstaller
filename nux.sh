@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
 set -eE
-confhome=https://avola.pages.dev
-confhome_cn=https://avola.pages.dev
+confhome=installer.jual.me
+confhome_cn=installer.jual.me
 
 DEFAULT_PASSWORD=Avola24
 
