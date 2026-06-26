@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
 set -eE
-confhome=installer.jual.me
-confhome_cn=installer.jual.me
+confhome=https://installer.jual.me
+confhome_cn=https://installer.jual.me
 
 DEFAULT_PASSWORD=Avola24
 

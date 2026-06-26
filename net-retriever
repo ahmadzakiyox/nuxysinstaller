@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>502 Bad Gateway</title>
+  <style>
+    body {
+      background-color: #f8f8f8;
+      font-family: Arial, sans-serif;
+      color: #444;
+      text-align: center;
+      padding-top: 100px;
+    }
+    .error-box {
+      display: inline-block;
+      padding: 40px;
+      background-color: #fff;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1 {
+      font-size: 48px;
+      color: #e74c3c;
+    }
+    p {
+      font-size: 18px;
+      margin-top: 10px;
+    }
+    .note {
+      margin-top: 20px;
+      color: #888;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <div class="error-box">
+    <h1>502 Bad Gateway</h1>
+    <p>Server received an invalid response from the upstream server.</p>
+    <div class="note">
+      Please try again later or contact the administrator if the problem persists.
+    </div>
+  </div>
+</body>
+</html>
